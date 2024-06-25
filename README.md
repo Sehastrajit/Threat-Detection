@@ -18,7 +18,9 @@ Clone the repository:
 
 
 git clone https://github.com/Sehastrajit/Threat-Detection.git
-cd Threat-Detection
+
+
+cd Threat-Detection:
 
 
 Change the file paths: thesign.yaml
